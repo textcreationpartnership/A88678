@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An impartiall relation of the late fight at Preston. Being the copy of a letter written (as the tenour of it importeth) / by Sir Marmaduke Langdale.</title>
+            <author>Langdale, Marmaduke Langdale, Baron, 1598?-1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88678</idno>
+            <idno type="STC">Wing L381</idno>
+            <idno type="STC">Thomason E464_42</idno>
+            <idno type="STC">ESTC R205177</idno>
+            <idno type="EEBO-CITATION">99864610</idno>
+            <idno type="PROQUEST">99864610</idno>
+            <idno type="VID">116841</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88678)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116841)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E464[42])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An impartiall relation of the late fight at Preston. Being the copy of a letter written (as the tenour of it importeth) / by Sir Marmaduke Langdale.</title>
+                  <author>Langdale, Marmaduke Langdale, Baron, 1598?-1661.</author>
+                  <author>Langdale, Marmarduke Langdale, Baron, 1598-1661.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Sept ye 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Preston (Lancashire) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116841:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 72 -->
+            <p>AN IMPARTIALL RELATION OF THE LATE FIGHT AT PRESTON Being the Copy of a Letter written (as the Tenour of it importeth) by Sir MARMADUKE LANGDALE.</p>
+            <p>Printed in the Year, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:116841:2"/>
+            <!-- PDF PAGE 73 -->
+            <head>AN IMPARTIALL RELATION OF THE LATE FIGHT AT <hi>PRESTON.</hi> Being the Copy of a Letter, written (as the Tenour of it importeth) By Sir <hi>Marmaduke Langdale.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His will give you a finall account of my imployment, which is now ended; be<g ref="char:EOLhyphen"/>ing a Priſoner in <hi>Nottingham</hi> Caſtle, where I have civill uſage. You have heard the condition I was in at <hi>Settle</hi> and <hi>Sigleſwick,</hi> with about 3000 Foot and 600 Horſe, the 13. of <hi>Auguſt,</hi> where hearing the Parliament Forces
+<pb n="2" facs="tcp:116841:3"/>
+               <!-- PDF PAGE 74 -->were gathered together, and Marching towards me, I went to acquaint Duke <hi>Hamilton</hi> therewith to <hi>Horneby,</hi> where he determined for <hi>Preſton,</hi> where (his Army be<g ref="char:EOLhyphen"/>ing numerous in Foot) he might have the greater ad<g ref="char:EOLhyphen"/>vantage upon his Enemy in thoſe incloſed Countries. I Marched neere <hi>Clitherow</hi> towards <hi>Preſton,</hi> in the March I met with the Lord <hi>Callender</hi> and divers of the <hi>Scottiſh</hi> Officers Quartered in my way, with whom I was reſol<g ref="char:EOLhyphen"/>ved to March to <hi>Preſton,</hi> but for the preſent the Intelli<g ref="char:EOLhyphen"/>gence was, that the Parliament Forces were divided, ſome part whereof were marched to <hi>Colne,</hi> and ſo to <hi>Mancheſter,</hi> to relieve that Towne in caſe we ſhould preſſe upon it. This made the Officers of Horſe more negligent of repayring to <hi>Preſton,</hi> but Quartered wide in the Country; the ſame night certaine intelligence came, that Lieutenant Generall <hi>Cromwell</hi> with all his Forces was within 3. miles of my Quarters, which I imediately ſent to the <hi>Duke,</hi> and told it to my Lord <hi>Le<g ref="char:EOLhyphen"/>viſton,</hi> to acquaint Lieutenant Generall <hi>Middleton</hi> therewith, and drew my Forces together in a field, and ſo marched towards <hi>Preſton</hi> betimes in the morning; where I found the <hi>Duke</hi> and Lord <hi>Callender</hi> with moſt part of the <hi>Scottiſh</hi> Foot drawne up; their reſolution was to march to <hi>Wiggan,</hi> giving little credit to the In<g ref="char:EOLhyphen"/>telligence that came the night before, but ſuffer their Horſe to continue in their Quarters 10. and 12. miles off; Within halfe an hower of our meeting, and by that time I was drawne into the Cloſe neere <hi>Preſton,</hi> the Enemy appear'd with a ſmall body of Horſe: The <hi>Scots</hi> continue their reſolution for <hi>Wiggan,</hi> for which end they drew their Foote over the Bridge; The Ene<g ref="char:EOLhyphen"/>my comming the ſame way that I had marched fell up<g ref="char:EOLhyphen"/>on my Quarter, where we continued skirmiſhing ſix
+<pb n="3" facs="tcp:116841:3"/>
+               <!-- PDF PAGE 74 -->houres, in all which time the <hi>Scots</hi> ſent me no reliefe: they had very few Horſe come up, ſo as thoſe they ſent me at laſt were but few, and were ſoone beaten; but if they had ſent me 1000 Foote to have flanked the Ene<g ref="char:EOLhyphen"/>my, I doubt not but the day had been ours. Yet I kept my poſt with various ſucceſſe, many times gathering ground of the Enemy, and as the <hi>Scots</hi> acknowledg they never ſaw any Foote fight better then mine did: The <hi>Duke</hi> being incredulous that it was the whole Army ſent Sir <hi>Lewis Dives</hi> to me; to whom I anſwered that it was impoſſible any Forces that were inconſiderable would adventure to preſſe upon ſo great an Army as we had, therefore he might conclude it was all the power they could make, and with which they were reſolved to put all to the hazard, therefore deſired that I might be ſe<g ref="char:EOLhyphen"/>conded, and have more Powder and Ammunition, I having ſpent 9. Barrels of Powder: The <hi>Scots</hi> continue their March over the River, and did not ſecure a Lane neere the Bridge, whereby the Parliament Forces came upon my flankes; Neither did the Forces that were left for my ſupply, come to my relief, but continued in the Reare of mine, nor did they ever face the Enemy but in bringing up the Reare; When moſt part of the <hi>Scots</hi> were drawne over the Bridge, the Parliament Forces preſſed hard upon me in the Van, and Flankes; and ſo drive me into the Towne, where the <hi>Duke</hi> was in perſon, with ſome few Horſe, but all being loſt, Retreated over a Foord to his Foote; After my Forces were beaten, the Parliament Forces beat the <hi>Scots</hi> from the Bridge preſently, and ſo came over into all the Lanes that we could not joyne with the Foote, but were forced to <hi>Charlow,</hi> where we found Lieutenant Generall <hi>Middle<g ref="char:EOLhyphen"/>ton</hi> ready to advance towards <hi>Preſton</hi> to the Foote,
+<pb n="4" facs="tcp:116841:4"/>
+               <!-- PDF PAGE 75 -->which he did; but not finding them there, returned to <hi>Wiggan,</hi> where the <hi>Duke</hi> was with his Foote, (mine to<g ref="char:EOLhyphen"/>tally loft.) There they tooke a reſolution to go to my Lord <hi>Biron,</hi> for which end they would march that night to <hi>Warrington:</hi> In their march the Parliament Forces fell ſo faſt upon their Reare, that they could not reach <hi>Warrington</hi> that night. And Lieutenant Generall <hi>Mid<g ref="char:EOLhyphen"/>dleton</hi> finding himſelfe unable to withſtand their Forces, left the Foote in <hi>Warrington</hi> to make their owne condi<g ref="char:EOLhyphen"/>tions: So as we marched towards <hi>Malpas,</hi> ſix of the <hi>Scottiſh</hi> Lords in this march left us, whereof my Lord <hi>Traquaire</hi> was one; Moſt part ſubmitted to the Sheriff of <hi>Shropſhire,</hi> who ſent two Gentlemen of that Country to the <hi>Duke</hi> to offer him the ſame Quarter that the Earl of <hi>Traquaire</hi> had: From <hi>Malpas</hi> we marched to <hi>Dray<g ref="char:EOLhyphen"/>ton,</hi> and ſo to <hi>Stone;</hi> in our march from thence to <hi>Ut<g ref="char:EOLhyphen"/>oxeter</hi> the Parliament Forces fell upon the Reare and tooke Lieutenant Generall <hi>Middleton;</hi> At <hi>Utoxeter</hi> the next morning going to attend the <hi>Duke</hi> for his reſolution, I found him extreame ſick, not able to March; My Lord <hi>Callender</hi> ſeemed to refuſe all wayes of Treaty, but rather to march Northward where we had a conſiderable Force, and the whole Kingdome of <hi>Scotland</hi> at our backs, upon this we marched over the River toward <hi>Aſhburne;</hi> I had the Van, and was march<g ref="char:EOLhyphen"/>ing, preſently my Lord of <hi>Callender</hi> came to me, told me he would march with me, but that none of his For<g ref="char:EOLhyphen"/>ces would, and that he had much ado to eſeape them; that he was come himſelf alone, his Horſe pricked in the foote, and without a Cloake. I perſwaded his Lord<g ref="char:EOLhyphen"/>ſhip that it was better to returne to his Forces, becauſe I could not protect him, and ſeeing the <hi>Scots</hi> had left me, I was reſolved to ſever, and ſhift every man for him<g ref="char:EOLhyphen"/>ſelf;
+<pb n="5" facs="tcp:116841:4"/>
+               <!-- PDF PAGE 75 -->but to capitulate I could not with a ſafe conſcience: After ſome little diſcourſe he returned to his Forces, and I marched towards <hi>Nottingham,</hi> where thoſe few I had, tooke ſeverall wayes, and I got that night over <hi>Trent,</hi> and came to a houſe 6. miles from <hi>Nottingham,</hi> where My ſelfe, Collonel <hi>Owen,</hi> Lieutenant Collonel <hi>Galliard,</hi> and Major <hi>Conſtable,</hi> thought to have ſhrowd<g ref="char:EOLhyphen"/>ed our ſelves as Parliamenteeres, and ſo made no reſi<g ref="char:EOLhyphen"/>ſtance, but were diſcovered, and are now in <hi>Nottingham</hi> Caſtle this 26 of <hi>Auguſt</hi> 1648.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
